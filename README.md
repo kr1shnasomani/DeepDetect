@@ -18,9 +18,11 @@ The project uses YOLOv8 to identify traffic lights, people, and vehicles in aeri
 ## Model Prediction:
 
   Input Image:
+  
   ![image](https://github.com/user-attachments/assets/91c628ad-0e27-4040-9d56-c2320d8f54ef)
 
   Output Image:
+  
   ![result](https://github.com/user-attachments/assets/bbb70386-4dfb-4c03-88b1-2ff761caf03d)
 
 ## Overview:
