@@ -1,4 +1,4 @@
-<h1 align="center">SkySight</h1>
+<h1 align="center">DeepDetect</h1>
 
 
 ## Execution Guide:
@@ -17,12 +17,12 @@
 
 ## Model Prediction:
 
-  Input Image:
+  DeepFake Video:
   
-  ![image](https://github.com/user-attachments/assets/91c628ad-0e27-4040-9d56-c2320d8f54ef)
+  [deepfake]()
 
-  Output Image:
+  Original Video:
   
-  ![result](https://github.com/user-attachments/assets/bbb70386-4dfb-4c03-88b1-2ff761caf03d)
+  [original]()
 
 ## Overview:
