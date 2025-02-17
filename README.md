@@ -7,22 +7,20 @@
    pip install opencv-python ultralytics numpy
    ```
 
-2. Download the YOLOv8 model from the link - **https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x.pt**
+2. 
 
-3. Copy paste the path of the model in the code
-
-4. Copy the path of the aerial image and paste it in the code
-
-5. Once that is done run the code and you will get the result video by the name of `result.jpg`
-
-## Model Prediction:
+## Result:
 
   DeepFake Video:
   
-  [deepfake]()
+  [deepfake](https://github.com/user-attachments/assets/aa03466e-0030-4d5e-a640-0094ffb00c26)
+
+  `Model prediction: DeepFake`
 
   Original Video:
   
-  [original]()
+  [original](https://github.com/user-attachments/assets/0304a40d-954e-4dfc-b0a9-5ccabe49e69a)
+
+  `Model prediction: Original`
 
 ## Overview:
